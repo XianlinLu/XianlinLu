@@ -9,7 +9,7 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 ### Web-based Interaction
 
-#### ⚡ [D3-Covid Data Dashboard](https://github.com/ariaxxxi/d3-Covid-Data-Viz)
+#### ⚡ [D3-Covid Data Dashboard](https://github.com/XianlinLu/D3-Covid-Data-Viz)
 
 #### 👯 [1D Collab Game](https://github.com/XianlinLu/Doublox-1DWebGame)
 
@@ -17,7 +17,7 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### 🌱 [React-Narratron: AI Storytelling](https://github.com/XianlinLu/React-Narratron-AI-Storytelling)
 
-####  [ReactNative-Todo List App](https://github.com/XianlinLu/ReactNative-Todo-List)
+#### 📋 [ReactNative-Todo List App](https://github.com/XianlinLu/ReactNative-Todo-List)
 
 
 ---------------
