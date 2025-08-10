@@ -26,31 +26,31 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### 🎵 [BlockBeats_VR Game](https://github.com/XianlinLu/BlockBeats_VR-Game)
 
-#### ⚽️ [UE Customized Shaders](https://github.com/ariaxxxi/UE-Shader-HLSL)
+#### ⚽️ [UE Customized Shaders](https://github.com/XianlinLu/UE-Shader-HLSL)
 
-#### 🤖️ [AI VR Chatbot](https://github.com/ariaxxxi/ChatBot-VR/tree/main)
+#### 🤖️ [AI VR Chatbot](https://github.com/XianlinLu/ChatBot-VR)
 
-#### ☀️ [AR Weather Forcast](https://github.com/ariaxxxi/Weather-AR)
+#### ☀️ [AR Weather Forcast](https://github.com/XianlinLu/Weather-AR)
 
-#### 🖌️ [AR Drawing++](https://github.com/ariaxxxi/AR-3D-Drawing/tree/main) 
+#### 🖌️ [AR Drawing](https://github.com/XianlinLu/AR-3D-Drawing) 
 
-#### Fore more my AR Projects, check out the [work page](https://www.xiyingbao.org/design)
+#### Fore more my AR Projects, check out the [work page](https://luxianlin68.myportfolio.com/)
 
 
 ---------------
 
 ### Processing
 
-#### [Emotion-Interactive Landscape](https://github.com/ariaxxxi/Emotion-interactive-Landscape)
+#### [Emotion-Interactive Landscape](https://github.com/XianlinLu/Emotion-interactive-Landscape)
 
 
 ---------------
 
 ### Arduino
 
-#### [1D Game Controller](https://github.com/ariaxxxi/Doublox-1DWebGame/tree/main/Interface1D/A_Joystick)
+#### [1D Game Controller](https://github.com/XianlinLu/Doublox-1DWebGame)
 
-#### [Thermal Imaging](https://github.com/ariaxxxi/Thermal-Imaging-Vibration/blob/main/final.ino)
+#### [Thermal Imaging](https://github.com/XianlinLu/Thermal-Imaging-Vibration)
 
-#### [Data Transfering](https://github.com/ariaxxxi/Send-CO2-data-wirelessly)
+#### [Data Transfering](https://github.com/XianlinLu/Send-CO2-data-wirelessly)
 
