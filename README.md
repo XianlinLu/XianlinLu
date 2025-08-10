@@ -2,7 +2,7 @@
 
 I'm a designer and engineer focusing on human–computer interaction, augmented reality and virtual reality, 3D and 2D user interfaces, automated design of graphics and multimedia, mobile and wearable computing, and data visualization.
 
-✨ Work Examples: https://www.xiyingbao.org/
+✨ Work Examples: https://luxianlin68.myportfolio.com/
 
 
 ---------------
@@ -24,7 +24,7 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 ### AR/VR: Unity / Unreal Engine
 
-#### 🎵 [BlockBeats_VR Game](https://github.com/ariaxxxi/BlockBeats_VRGame/tree/main)
+#### 🎵 [BlockBeats_VR Game](https://github.com/XianlinLu/BlockBeats_VR-Game)
 
 #### ⚽️ [UE Customized Shaders](https://github.com/ariaxxxi/UE-Shader-HLSL)
 
