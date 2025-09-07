@@ -36,7 +36,7 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 #### 🖌️ [AR Drawing](https://github.com/XianlinLu/AR-3D-Drawing) 
 
-#### Fore more my AR Projects, check out the [work page](https://luxianlin68.myportfolio.com/)
+#### Fore more my AR Projects, check out the [work page](https://www.0xx0.com/work)
 
 
 ---------------
