@@ -4,7 +4,7 @@ I'm a designer and engineer focusing on human–computer interaction, augmented 
 
 ✨ Work Examples: https://xianlinlu.github.io/Work/
 
-👩🏻‍💻 Studio: https://0xx0.webflow.io/teams/arianna-lu
+👩🏻‍💻 Studio: https://xianlinlu.github.io/portfolio/
 
 
 ---------------
