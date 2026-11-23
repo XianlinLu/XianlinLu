@@ -2,7 +2,7 @@
 
 I'm a designer and engineer focusing on human–computer interaction, augmented reality and virtual reality, 3D and 2D user interfaces, automated design of graphics and multimedia, mobile and wearable computing, and data visualization.
 
-✨ Work Examples: https://0xx0.webflow.io/
+✨ Work Examples: https://xianlinlu.github.io/Work/
 
 👩🏻‍💻 Studio: https://0xx0.webflow.io/teams/arianna-lu
 
